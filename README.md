@@ -1,19 +1,20 @@
-# 📚 Algorithms & Data Structures Portfolio
-
-[![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://isocpp.org/)
-[![University](https://img.shields.io/badge/University-Jagiellonian%20University-red.svg)](https://uj.edu.pl)
+# Algorithms & Data Structures Portfolio
 
 A comprehensive collection of classic algorithms and data structures implemented in C++ during Algorithms and Data Structures coursework at Jagiellonian University.
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This repository demonstrates practical implementations of fundamental computer science concepts, including efficient data structures, graph algorithms, and computational problem-solving techniques. All implementations include comprehensive testing and performance analysis.
 
+### My other projects on this topic:  
+[AVL Tree](https://github.com/pnykiel3/AVLtree)  
+[Red-Black Tree](https://github.com/pnykiel3/RedBlackTree)
+
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Data Structures](#-data-structures)
 - [Graph Algorithms](#-graph-algorithms)
@@ -23,7 +24,7 @@ This repository demonstrates practical implementations of fundamental computer s
 
 ---
 
-## 🗂️ Data Structures
+## Data Structures
 
 ### Linear Data Structures
 - **Stack** - Array-based stack implementation with template support
@@ -71,7 +72,7 @@ This repository demonstrates practical implementations of fundamental computer s
 
 ---
 
-## 🌐 Graph Algorithmss
+## Graph Algorithmss
 
 ### Shortest Path Algorithms
 - **Floyd-Warshall Algorithm** - All-pairs shortest path
@@ -89,7 +90,7 @@ This repository demonstrates practical implementations of fundamental computer s
 
 ---
 
-## 🧮 Algorithmic Techniques
+## Algorithmic Techniques
 
 ### Computational Applications
 - **Reverse Polish Notation (RPN) Calculator**
@@ -106,7 +107,7 @@ This repository demonstrates practical implementations of fundamental computer s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 uj_Algorytmy_i_Struktury_Danych/
@@ -133,7 +134,7 @@ uj_Algorytmy_i_Struktury_Danych/
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Language**: C++14/17
 - **Build System**: Make, CMake
@@ -142,7 +143,7 @@ uj_Algorytmy_i_Struktury_Danych/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Most projects include a Makefile with standard targets:
 
@@ -164,7 +165,7 @@ For specific instructions, refer to the README.md file in each subdirectory.
 
 ---
 
-## 📊 Performance Highlights
+## Performance Highlights
 
 - Implemented and compared multiple data structure variants (e.g., different set implementations)
 - Conducted empirical performance analysis with data visualization
@@ -172,7 +173,7 @@ For specific instructions, refer to the README.md file in each subdirectory.
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Paweł Nykiel**
 <p.nykiel@icloud.com>
